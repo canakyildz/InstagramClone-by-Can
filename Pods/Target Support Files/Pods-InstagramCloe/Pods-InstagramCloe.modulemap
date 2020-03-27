@@ -1,0 +1,6 @@
+framework module Pods_InstagramCloe {
+  umbrella header "Pods-InstagramCloe-umbrella.h"
+
+  export *
+  module * { export * }
+}
